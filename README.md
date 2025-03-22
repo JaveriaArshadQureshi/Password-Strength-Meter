@@ -1,12 +1,12 @@
 #  🔐 Project 02: Password Strength Meter
-📌 Objective
-Build a Password Strength Meter in Python that evaluates a user's password based on security rules. The program will:
+### 📌 Objective
+#### Build a Password Strength Meter in Python that evaluates a user's password based on security rules. The program will:
 
 Analyze passwords based on length, character types, and patterns.
 Assign a strength score (Weak, Moderate, Strong).
 Provide feedback to improve weak passwords.
 Use control flow, type casting, strings, and functions.
-🔹 Requirements
+### 🔹 Requirements
 1. Password Strength Criteria
 A strong password should:
 ✅ Be at least 8 characters long
