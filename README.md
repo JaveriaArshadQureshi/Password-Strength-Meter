@@ -67,7 +67,7 @@ def check_password_strength(password):
 #### User-Friendly Interface: Use Streamlit for a GUI version.
 #### Blacklist Common Passwords: Reject weak passwords like "password123".
 #### Custom Scoring Weights: Give different weights to complexity factors.
-####🔹 Why This Assignment?
+#### 🔹 Why This Assignment?
 #### ✅ Uses Control Flow & Conditions
 #### ✅ Applies String Manipulation & Regex
 #### ✅ Teaches Security Best Practices
